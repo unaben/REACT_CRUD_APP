@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.com",
+      "phone": "1-477-935-8478 x6430",
+      "id": 6
+    },
+    {
+      "name": "Kurtis Weisnamy",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "210.067.60000",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "phone": "586.493.6943 x140"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "024-648-3804"
+    },
+    {
+      "name": "Ferrari Alana",
+      "email": "alana_f@gmail.com",
+      "phone": "08-23456-985",
+      "id": 13
+    },
+    {
+      "name": "Nathan King",
+      "email": "nathan@yahoo.com",
+      "phone": "09-236-07634",
+      "id": 14
+    },
+    {
+      "name": "Steven Rico",
+      "email": "rico.smile@mail.com",
+      "phone": "0984-3452983-72",
+      "id": 15
+    },
+    {
+      "name": "Robert Marino-Lee",
+      "email": "roberts@yahoo.com",
+      "phone": "123-0945-3467",
+      "id": 16
+    },
+    {
+      "name": "Nathan King",
+      "email": "nathan@nat.com",
+      "phone": "10-345678-2361",
+      "id": 17
+    },
+    {
+      "name": "Bruce Smalltail",
+      "email": "smalltail@yahoo.com",
+      "phone": "026-08453-08763",
+      "id": 18
+    }
+  ]
+}
