@@ -77,6 +77,12 @@
       "email": "atam_emma@mail.com",
       "phone": "+44 74352-12356",
       "id": 21
+    },
+    {
+      "name": "Daniel Bradford",
+      "email": "daniel_bradford@mail.com",
+      "phone": "108-234670-12",
+      "id": 22
     }
   ]
 }
