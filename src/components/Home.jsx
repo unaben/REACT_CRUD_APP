@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import deleteApi from "../api/DeleteApi";
 import fetchAllUsers from "../api/FetchAllUsers";
+import Header from "./Header";
 
 const Home = () => {
   const [contacts, setContacts] = useState([]);
@@ -15,8 +16,11 @@ const Home = () => {
   };
 
   return (
-    <div className="d-flex flex-column justify-content-center align-items-center bg-light vh-100">
-      <h1>List Of Users</h1>
+    <div
+      style={{ marginBottom: "2rem", padding: "1em" }}
+      className="d-flex flex-column justify-content-center align-items-center bg-light min-vh-100"
+    >
+      <Header />
       <div className="w-75 rounded bg-white border shadow p-4">
         <div className="d-flex justify-content-end">
           <Link to="/create" className="btn btn-success">
